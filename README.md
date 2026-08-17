@@ -3,7 +3,7 @@
 ## Members
 
 - Member 1
-- Member 2
+- Sanjana
 - Member 3
 - Member 4
 

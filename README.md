@@ -4,7 +4,7 @@
 
 - Denzel
 - Sanjana
-- Member 3
+- Tam Jing Ying
 - Wayn
 
 # This is a J1 Summary Project

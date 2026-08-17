@@ -2,10 +2,10 @@
 
 ## Members
 
-- Member 1
+- Denzel
 - Sanjana
 - Member 3
-- Member 4
+- Wayn
 
 # This is a J1 Summary Project
 - It is a simple MUD game about ...

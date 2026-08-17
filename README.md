@@ -4,7 +4,7 @@
 
 - Member 1
 - Member 2
-- Member 3
+- Tam Jing Ying
 - Member 4
 
 # This is a J1 Summary Project

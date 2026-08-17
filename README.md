@@ -3,7 +3,7 @@
 ## Members
 
 - Denzel
-- Member 2
+- Sanjana
 - Member 3
 - Wayn
 

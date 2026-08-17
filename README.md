@@ -2,10 +2,10 @@
 
 ## Members
 
-- Member 1
-- Member 2
+- Denzel
+- Sanjana
 - Tam Jing Ying
-- Member 4
+- Wayn
 
 # This is a J1 Summary Project
 - It is a simple MUD game about ...

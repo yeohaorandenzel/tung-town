@@ -7,6 +7,16 @@ The main game loop.
 import game
 import data
 
+game_running = True
+
+while game_running:
+    if player.health <= 0:
+        print("You have lost :( (boohoo noob energy)")
+        game_running = False
+    if DevilTung.health <= 0:
+        print("You have defeated Devil Tung!")
+        game_running = False
+
 
 if __name__ == "__main__":
     mud = game.Game()

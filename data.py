@@ -18,7 +18,7 @@ class data:
 
     class Inventory:
         def __init__(self):
-            self.cap = 5 #maximum capacity of inventory
+            self.number = 5 #current number of items inventory
             self.items = [] #list of all items in inventory
 
 tung_town_case = Room(

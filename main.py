@@ -11,13 +11,13 @@ import data
 if __name__ == "__main__":
     mud = game.Game()
     mud.welcome()
-    player = data.create_player()
+    name = input("Player what is your name: ")
+    player = data.Player(name, data.tung_town_case)
     mud.add_player(player)
     while not mud.is_gameover():
-        choices = mud.get_options()
-        choice = data.prompt_player_choice(choices)
-        actions = mud.get_actions(choice)
+        choices_dict = mud.get_options()
+        choice_name = data.prompt_player_choice(choices_dict)
+        actions = mud.get_actions(choice_name)
         mud.execute(actions)
-        data.display(mud.status())
     game.epilogue()
     

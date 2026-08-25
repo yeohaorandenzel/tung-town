@@ -1,4 +1,7 @@
 import data
+with open("rooms.json", "r") as file:
+    data = json.load(file)
+    
 class Battle:
     def __init__(self, player, enemy):
         self.player = player

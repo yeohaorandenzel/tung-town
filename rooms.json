@@ -2,19 +2,19 @@ import json
 {
     "rooms": [
         {
-            "name": "Dungeon",
-            "description": "A dark and scary dungeon.",
+            "name": "Tung Town Square",
+            "description": "A desolate town square surrounded by faded grass. A demolished statue of tung tung tung sahur stands at the centre, heavy with strange fruit. Two rectangular creatures stand next to you. ",
             "max_health": 100,
             "exits": {
-                "north": "Forest"
+                "north": "Scarlet Swamp"
             }
         },
         {
-            "name": "Forest",
-            "description": "A quiet forest filled with trees.",
+            "name": "Scarlet Swamp",
+            "description": "Flames spew from the inferno, its heat burning your skin. Bombardino Crocadilo whips his tail and swims towards you with fiery speed!",
             "max_health": 200,
             "exits": {
-                "south": "Dungeon"
+                "south": "Tung Town Square"
             }
         }
     ]

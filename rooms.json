@@ -1,0 +1,22 @@
+import json
+{
+    "rooms": [
+        {
+            "name": "Dungeon",
+            "description": "A dark and scary dungeon.",
+            "max_health": 100,
+            "exits": {
+                "north": "Forest"
+            }
+        },
+        {
+            "name": "Forest",
+            "description": "A quiet forest filled with trees.",
+            "max_health": 200,
+            "exits": {
+                "south": "Dungeon"
+            }
+        }
+    ]
+}
+m
